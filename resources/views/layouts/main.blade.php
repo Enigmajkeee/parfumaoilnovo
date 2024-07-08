@@ -32,8 +32,8 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="blogDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Каталог</a>
                         <div class="dropdown-menu" aria-labelledby="blogDropdown">
-                            <a class="dropdown-item" href="blog.html">Парфюмерные масла</a>
-                            <a class="dropdown-item" href="blog-single.html">Аксессуары</a>
+                            <a class="dropdown-item" href="http://localhost:92/api/oils">Парфюмерные масла</a>
+                            <a class="dropdown-item" href="http://localhost:92/api/accessories">Аксессуары</a>
                         </div>
                     </li>
                     <li class="nav-item">
